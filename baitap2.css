@@ -1,0 +1,31 @@
+p{
+    text-align: left;
+    font-size: 10px;
+
+}
+p{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: crimson;
+    text-align: center;
+    font-size: 30px;
+
+}
+UL{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: chartreuse;
+    text-align: left;
+
+}
+UL{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: blue;
+    text-align: left;
+}
