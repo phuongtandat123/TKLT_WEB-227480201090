@@ -1,0 +1,22 @@
+table{
+    background-color: rgb(153, 0, 255);
+    font-size: 35px;
+    border: 15px;
+    width: 50%;
+    height: 50%;
+    padding: 2px;
+    text-align: center;
+
+}
+tr{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    column-span: 1;
+    -ms-grid-row-span: 1;
+    border: 15px;
+    background-color: aqua;
+
+
+
+}
